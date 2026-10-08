@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Alerte Gazole Sarthe</title>
+<link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#e67e22">
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+         margin: 0; padding: 16px; background: #f0f2f5; color: #222;
+         display: flex; flex-direction: column; align-items: center; }
+  header, h2, .stations, .date { width: 100%; max-width: 700px; }
+  header { background: linear-gradient(135deg, #e67e22, #b35c14);
+            color: white; padding: 20px; border-radius: 12px;
+            margin-bottom: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+  h1 { margin: 0; font-size: 1.3em; }
+  .compteur { margin-top: 8px; font-size: 1em; opacity: 0.95; }
+  h2 { font-size: 1.1em; color: #333; margin: 20px 0 10px 0;
+        border-bottom: 2px solid #ccc; padding-bottom: 4px; }
+  h2.dispo { color: #090; border-bottom-color: #090; }
+  h2.temp { color: #e80; border-bottom-color: #e80; }
+  h2.def { color: #c00; border-bottom-color: #c00; }
+  .stations { display: grid; gap: 10px; grid-template-columns: 1fr; }
+  @media (min-width: 600px) {
+    .stations { grid-template-columns: 1fr 1fr; }
+  }
+  .station { background: white; padding: 14px; border-radius: 10px;
+              box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+              border-left: 4px solid #ccc; position: relative; }
+  .badge { position: absolute; top: 8px; right: 8px;
+            font-size: 0.65em; color: white; padding: 2px 6px;
+            border-radius: 4px; font-weight: bold; }
+  .ville { font-weight: bold; font-size: 1.05em; padding-right: 100px; }
+  .cp { font-weight: normal; color: #888; font-size: 0.85em; }
+  .adresse { color: #555; font-size: 0.9em; margin-top: 4px; }
+  .prix { color: #090; font-weight: bold; margin-top: 6px; font-size: 0.95em; }
+  .date { text-align: center; color: #888; font-size: 0.85em;
+           margin: 20px 0; }
+  .vide { background: white; padding: 20px; text-align: center;
+           border-radius: 10px; color: #666; font-size: 0.9em; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Gazole TotalEnergies - Sarthe</h1>
+  <div class="compteur">21 station(s) avec Gazole dispo</div>
+</header>
+
+<h2 class="dispo">✅ Gazole disponible (21)</h2>
+<div class="stations">
+
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Bessé-sur-Braye <span class="cp">(72310)</span></div>
+            <div class="adresse">47 rue du bal de braye</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Brûlon <span class="cp">(72350)</span></div>
+            <div class="adresse">ROUTE DE SILLE</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Champagné <span class="cp">(72470)</span></div>
+            <div class="adresse">RN 23 - LES FOSSES</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Chaufour-Notre-Dame <span class="cp">(72550)</span></div>
+            <div class="adresse">RELAIS DE LA COLOMBERIE LA GROIE RD357</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Fresnay-sur-Sarthe <span class="cp">(72130)</span></div>
+            <div class="adresse">6 AVENUE DIVISION LECLERC</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Le Mans <span class="cp">(72000)</span></div>
+            <div class="adresse">314 AV RHIN ET DANUBE</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Le Mans <span class="cp">(72100)</span></div>
+            <div class="adresse">RN 23 - AERODROME</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Le Mans <span class="cp">(72000)</span></div>
+            <div class="adresse">ROUTE DE LAVAL</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Le Mans <span class="cp">(72100)</span></div>
+            <div class="adresse">146 AVENUE DU DR JEAN MAC</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Le Mans <span class="cp">(72000)</span></div>
+            <div class="adresse">2 Rue de Bonnétable</div>
+            <div class="prix">2.409 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Le Mans <span class="cp">(72100)</span></div>
+            <div class="adresse">AVENUE FELIX GENESLAY</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Le Mans <span class="cp">(72000)</span></div>
+            <div class="adresse">162, AVENUE BOLLEE</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Le Mans <span class="cp">(72100)</span></div>
+            <div class="adresse">110 -112 BLD DEMORIEUX</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Maresché <span class="cp">(72170)</span></div>
+            <div class="adresse">GARE DE PEAGE MARESCHE A28</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Sablé-sur-Sarthe <span class="cp">(72300)</span></div>
+            <div class="adresse">LE PETIT ERABLE, ROUTE DE LAVAL</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Saint-Calais <span class="cp">(72120)</span></div>
+            <div class="adresse">7 Avenue Charles de Gaulle</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Sargé-lès-le-Mans <span class="cp">(72190)</span></div>
+            <div class="adresse">A11 - AIRE SARTHE SARGE LE MANS SUD</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Sargé-lès-le-Mans <span class="cp">(72190)</span></div>
+            <div class="adresse">A11-AIRE SARTHE SARGE LE MANS NORD</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Trangé <span class="cp">(72650)</span></div>
+            <div class="adresse">RN 157 - LE RELAIS DE LA LANDE</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Écommoy <span class="cp">(72220)</span></div>
+            <div class="adresse">LE SOLEIL</div>
+            <div class="prix">2.250 EUR/L</div>
+        </div>
+        <div class="station" style="border-left-color: #090;">
+            <div class="badge" style="background: #090;">DISPO</div>
+            <div class="ville">Écommoy <span class="cp">(72220)</span></div>
+            <div class="adresse">CENTRE COMMERCIAL LE BELINOIS</div>
+            <div class="prix">2.339 EUR/L</div>
+        </div>
+</div>
+
+<h2 class='temp'>⚠️ Rupture temporaire (3)</h2><div class='stations'>
+        <div class="station" style="border-left-color: #e80;">
+            <div class="badge" style="background: #e80;">RUPTURE TEMP.</div>
+            <div class="ville">Bouloire <span class="cp">(72440)</span></div>
+            <div class="adresse">1 Rue Nationale</div>
+            
+        </div>
+        <div class="station" style="border-left-color: #e80;">
+            <div class="badge" style="background: #e80;">RUPTURE TEMP.</div>
+            <div class="ville">Luceau <span class="cp">(72500)</span></div>
+            <div class="adresse">27 ROUTE DU MANS</div>
+            
+        </div>
+        <div class="station" style="border-left-color: #e80;">
+            <div class="badge" style="background: #e80;">RUPTURE TEMP.</div>
+            <div class="ville">Solesmes <span class="cp">(72300)</span></div>
+            <div class="adresse">Avenue Jean Monnet</div>
+            
+        </div></div>
+
+
+
+<div class="date">Derniere mise a jour : 08/10/2026 a 11h11</div>
+</body>
+</html>

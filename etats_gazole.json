@@ -1,0 +1,177 @@
+{
+  "72190003": {
+    "ville": "Sargé-lès-le-Mans",
+    "adresse": "A11 - AIRE SARTHE SARGE LE MANS SUD",
+    "cp": "72190",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72000019": {
+    "ville": "Le Mans",
+    "adresse": "314 AV RHIN ET DANUBE",
+    "cp": "72000",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72650002": {
+    "ville": "Trangé",
+    "adresse": "RN 157 - LE RELAIS DE LA LANDE",
+    "cp": "72650",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72440002": {
+    "ville": "Bouloire",
+    "adresse": "1 Rue Nationale",
+    "cp": "72440",
+    "etat": "temp",
+    "prix": null
+  },
+  "72100013": {
+    "ville": "Le Mans",
+    "adresse": "RN 23 - AERODROME",
+    "cp": "72100",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72220002": {
+    "ville": "Écommoy",
+    "adresse": "LE SOLEIL",
+    "cp": "72220",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72000021": {
+    "ville": "Le Mans",
+    "adresse": "ROUTE DE LAVAL",
+    "cp": "72000",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72100012": {
+    "ville": "Le Mans",
+    "adresse": "146 AVENUE DU DR JEAN MAC",
+    "cp": "72100",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72000010": {
+    "ville": "Le Mans",
+    "adresse": "44 Rue de Bonnétable",
+    "cp": "72000",
+    "etat": null,
+    "prix": null
+  },
+  "72130006": {
+    "ville": "Fresnay-sur-Sarthe",
+    "adresse": "6 AVENUE DIVISION LECLERC",
+    "cp": "72130",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72550002": {
+    "ville": "Chaufour-Notre-Dame",
+    "adresse": "RELAIS DE LA COLOMBERIE LA GROIE RD357",
+    "cp": "72550",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72190004": {
+    "ville": "Sargé-lès-le-Mans",
+    "adresse": "A11-AIRE SARTHE SARGE LE MANS NORD",
+    "cp": "72190",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72470004": {
+    "ville": "Champagné",
+    "adresse": "RN 23 - LES FOSSES",
+    "cp": "72470",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72170004": {
+    "ville": "Maresché",
+    "adresse": "GARE DE PEAGE MARESCHE A28",
+    "cp": "72170",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72220001": {
+    "ville": "Écommoy",
+    "adresse": "CENTRE COMMERCIAL LE BELINOIS",
+    "cp": "72220",
+    "etat": "dispo",
+    "prix": 2.339
+  },
+  "72120003": {
+    "ville": "Saint-Calais",
+    "adresse": "7 Avenue Charles de Gaulle",
+    "cp": "72120",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72000001": {
+    "ville": "Le Mans",
+    "adresse": "2 Rue de Bonnétable",
+    "cp": "72000",
+    "etat": "dispo",
+    "prix": 2.409
+  },
+  "72100004": {
+    "ville": "Le Mans",
+    "adresse": "AVENUE FELIX GENESLAY",
+    "cp": "72100",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72350001": {
+    "ville": "Brûlon",
+    "adresse": "ROUTE DE SILLE",
+    "cp": "72350",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72300009": {
+    "ville": "Sablé-sur-Sarthe",
+    "adresse": "LE PETIT ERABLE, ROUTE DE LAVAL",
+    "cp": "72300",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72301001": {
+    "ville": "Solesmes",
+    "adresse": "Avenue Jean Monnet",
+    "cp": "72300",
+    "etat": "temp",
+    "prix": null
+  },
+  "72000020": {
+    "ville": "Le Mans",
+    "adresse": "162, AVENUE BOLLEE",
+    "cp": "72000",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72100014": {
+    "ville": "Le Mans",
+    "adresse": "110 -112 BLD DEMORIEUX",
+    "cp": "72100",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72310002": {
+    "ville": "Bessé-sur-Braye",
+    "adresse": "47 rue du bal de braye",
+    "cp": "72310",
+    "etat": "dispo",
+    "prix": 2.25
+  },
+  "72500005": {
+    "ville": "Luceau",
+    "adresse": "27 ROUTE DU MANS",
+    "cp": "72500",
+    "etat": "temp",
+    "prix": null
+  }
+}

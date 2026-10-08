@@ -1,0 +1,255 @@
+{
+  "date": "2026-10-08T09:11:23.446553",
+  "positions": [
+    {
+      "lat": 48.0230934,
+      "lon": 0.1829726,
+      "nom": "Total Access"
+    },
+    {
+      "lat": 48.0551064,
+      "lon": 0.2528748,
+      "nom": "Relais Total De Courdoux"
+    },
+    {
+      "lat": 47.8407082,
+      "lon": 0.2625528,
+      "nom": "Total"
+    },
+    {
+      "lat": 48.4004666,
+      "lon": -0.1054079,
+      "nom": "Total"
+    },
+    {
+      "lat": 47.9750612,
+      "lon": 0.5457045,
+      "nom": "Total Bouloire"
+    },
+    {
+      "lat": 48.3099195,
+      "lon": -0.6053619,
+      "nom": "Total Access"
+    },
+    {
+      "lat": 47.9540279,
+      "lon": -0.5610673,
+      "nom": "TotalEnergies"
+    },
+    {
+      "lat": 47.9635173,
+      "lon": 0.2010486,
+      "nom": "Station service Total"
+    },
+    {
+      "lat": 47.9021156,
+      "lon": 0.9159369,
+      "nom": "Total Contact"
+    },
+    {
+      "lat": 47.8563525,
+      "lon": -0.3606395,
+      "nom": "Total Access"
+    },
+    {
+      "lat": 48.0158104,
+      "lon": 0.3284835,
+      "nom": "Total Access"
+    },
+    {
+      "lat": 48.0214995,
+      "lon": 0.1072575,
+      "nom": "SARL Picault"
+    },
+    {
+      "lat": 48.1975445,
+      "lon": 0.1689282,
+      "nom": "Total"
+    },
+    {
+      "lat": 48.2184717,
+      "lon": 0.1302481,
+      "nom": "Total"
+    },
+    {
+      "lat": 48.2990348,
+      "lon": 0.096868,
+      "nom": "Total"
+    },
+    {
+      "lat": 47.9749304,
+      "lon": -0.2299485,
+      "nom": "Total Contact"
+    },
+    {
+      "lat": 48.2604593,
+      "lon": 0.9138983,
+      "nom": "Total Contact"
+    },
+    {
+      "lat": 48.3063178,
+      "lon": 0.808289,
+      "nom": "Total Contact"
+    },
+    {
+      "lat": 48.0555226,
+      "lon": 0.2525804,
+      "nom": "Relais Total De Courdoux"
+    },
+    {
+      "lat": 48.1671436,
+      "lon": 0.2332572,
+      "nom": "TotalEnergies"
+    },
+    {
+      "lat": 48.1918767,
+      "lon": 0.6620263,
+      "nom": "Total Access"
+    },
+    {
+      "lat": 48.0240036,
+      "lon": 0.0649325,
+      "nom": "Total"
+    },
+    {
+      "lat": 48.3125416,
+      "lon": 0.9905226,
+      "nom": "Total"
+    },
+    {
+      "lat": 47.948476,
+      "lon": 0.1950932,
+      "nom": "Total Access"
+    },
+    {
+      "lat": 48.4437903,
+      "lon": 0.099555,
+      "nom": "Total"
+    },
+    {
+      "lat": 48.0287433,
+      "lon": -0.2693678,
+      "nom": "Total"
+    },
+    {
+      "lat": 48.120918,
+      "lon": 0.5080179,
+      "nom": "Total Contact"
+    },
+    {
+      "lat": 47.7222567,
+      "lon": -0.6149821,
+      "nom": "TotalEnergies"
+    },
+    {
+      "lat": 48.457184,
+      "lon": 0.1265733,
+      "nom": "Total"
+    },
+    {
+      "lat": 48.001786,
+      "lon": 0.4767925,
+      "nom": "TotalEnergies"
+    },
+    {
+      "lat": 47.9317097,
+      "lon": 0.1551061,
+      "nom": "TotalEnergies"
+    },
+    {
+      "lat": 47.7868836,
+      "lon": 0.1644298,
+      "nom": "TotalEnergies"
+    },
+    {
+      "lat": 47.8304676,
+      "lon": 0.7500901,
+      "nom": "Total"
+    },
+    {
+      "lat": 47.7129825,
+      "lon": 0.4034879,
+      "nom": "Total"
+    },
+    {
+      "lat": 47.9802028,
+      "lon": 0.2204789,
+      "nom": "Relais Le Mans Jean Mac"
+    },
+    {
+      "lat": 47.9970232,
+      "lon": 0.2175885,
+      "nom": "Total Access"
+    },
+    {
+      "lat": 47.9960961,
+      "lon": 0.1865622,
+      "nom": "Total Access"
+    },
+    {
+      "lat": 48.0176056,
+      "lon": 0.2192868,
+      "nom": "Total"
+    },
+    {
+      "lat": 48.0170945,
+      "lon": 0.1425037,
+      "nom": "Total Access"
+    },
+    {
+      "lat": 47.8367644,
+      "lon": -0.6890686,
+      "nom": "Total"
+    },
+    {
+      "lat": 48.4574626,
+      "lon": 0.1262772,
+      "nom": "Total"
+    },
+    {
+      "lat": 48.3099359,
+      "lon": -0.6053953,
+      "nom": "Total"
+    },
+    {
+      "lat": 48.434714,
+      "lon": 0.054223,
+      "nom": "Total"
+    },
+    {
+      "lat": 48.4625504,
+      "lon": -0.1910649,
+      "nom": "TotalEnergies"
+    },
+    {
+      "lat": 48.1494488,
+      "lon": -0.408789,
+      "nom": "Total"
+    },
+    {
+      "lat": 47.8339641,
+      "lon": -0.2989469,
+      "nom": "Total"
+    },
+    {
+      "lat": 48.3716025,
+      "lon": 0.5831295,
+      "nom": "TotalEnergies"
+    },
+    {
+      "lat": 47.9175078,
+      "lon": 0.7456335,
+      "nom": "Total"
+    },
+    {
+      "lat": 48.0562198,
+      "lon": 0.2546357,
+      "nom": "TotalEnergies"
+    },
+    {
+      "lat": 48.0563901,
+      "lon": 0.2538631,
+      "nom": "TotalEnergies"
+    }
+  ]
+}
