@@ -17,8 +17,8 @@
     "ville": "Trangé",
     "adresse": "RN 157 - LE RELAIS DE LA LANDE",
     "cp": "72650",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72440002": {
     "ville": "Bouloire",
@@ -87,8 +87,8 @@
     "ville": "Champagné",
     "adresse": "RN 23 - LES FOSSES",
     "cp": "72470",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72170004": {
     "ville": "Maresché",
@@ -150,15 +150,15 @@
     "ville": "Le Mans",
     "adresse": "162, AVENUE BOLLEE",
     "cp": "72000",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72100014": {
     "ville": "Le Mans",
     "adresse": "110 -112 BLD DEMORIEUX",
     "cp": "72100",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72310002": {
     "ville": "Bessé-sur-Braye",
