@@ -10,8 +10,8 @@
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72650002": {
     "ville": "Trangé",
@@ -24,15 +24,15 @@
     "ville": "Bouloire",
     "adresse": "1 Rue Nationale",
     "cp": "72440",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72100013": {
     "ville": "Le Mans",
     "adresse": "RN 23 - AERODROME",
     "cp": "72100",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": null,
+    "prix": null
   },
   "72220002": {
     "ville": "Écommoy",
@@ -66,8 +66,8 @@
     "ville": "Fresnay-sur-Sarthe",
     "adresse": "6 AVENUE DIVISION LECLERC",
     "cp": "72130",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72550002": {
     "ville": "Chaufour-Notre-Dame",
@@ -143,8 +143,8 @@
     "ville": "Solesmes",
     "adresse": "Avenue Jean Monnet",
     "cp": "72300",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72000020": {
     "ville": "Le Mans",
