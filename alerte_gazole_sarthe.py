@@ -2,7 +2,7 @@
 """
 Alerte Gazole TotalEnergies - Sarthe (72)
 Surveille la DISPONIBILITE du Gazole (pas le prix).
-Alerte en cas de retour en stock ou de rupture.
+Version GitHub avec publication a la racine.
 """
 
 import requests
@@ -17,12 +17,12 @@ from PIL import Image, ImageDraw
 # CONFIGURATION
 # ============================================================
 
-NTFY_TOPIC = "total72-gazole-stock"
+NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "total72-gazole-stock")
 DISTANCE_MAX_METRES = 150
 FICHIER_STOCKS = "etats_gazole.json"
 FICHIER_CACHE = "stations_total_cache.json"
 FICHIER_RECAP = "recap_dernier.json"
-DOSSIER_PUBLIC = "public"
+DOSSIER_PUBLIC = "."
 HEURE_RECAP = 8
 
 # ============================================================
@@ -45,8 +45,6 @@ def sauvegarder_json(fichier, data):
 
 def creer_icones_png():
     """Genere les icones PNG 192x192 et 512x512 - orange diesel."""
-    os.makedirs(DOSSIER_PUBLIC, exist_ok=True)
-
     for taille in (192, 512):
         img = Image.new("RGBA", (taille, taille), (0, 0, 0, 0))
         draw = ImageDraw.Draw(img)
@@ -58,7 +56,6 @@ def creer_icones_png():
             fill=(230, 126, 34, 255),
         )
 
-        # Goutte de carburant stylisee (goutte)
         draw.polygon([
             (int(taille * 0.50), int(taille * 0.15)),
             (int(taille * 0.28), int(taille * 0.55)),
@@ -68,14 +65,13 @@ def creer_icones_png():
             (int(taille * 0.72), int(taille * 0.55)),
         ], fill=(255, 255, 255, 255))
 
-        # Interieur de la goutte (orange clair pour effet 3D)
         draw.ellipse(
             [int(taille * 0.38), int(taille * 0.60),
              int(taille * 0.62), int(taille * 0.78)],
             fill=(230, 126, 34, 255),
         )
 
-        img.save(os.path.join(DOSSIER_PUBLIC, f"icon-{taille}.png"))
+        img.save(f"icon-{taille}.png")
         print(f"   Icone {taille}x{taille} generee")
 
 
@@ -93,7 +89,7 @@ def creer_manifest():
             {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"},
         ],
     }
-    with open(os.path.join(DOSSIER_PUBLIC, "manifest.json"), "w", encoding="utf-8") as f:
+    with open("manifest.json", "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2, ensure_ascii=False)
     print(f"   Manifest cree")
 
@@ -194,7 +190,6 @@ def recuperer_stations_sarthe():
 
 
 def etat_gazole(station):
-    """Retourne 'dispo', 'temp', 'def' ou None pour le Gazole."""
     rupture = station.get("gazole_rupture_type")
     prix = station.get("gazole_prix")
     if rupture == "temporaire":
@@ -206,13 +201,10 @@ def etat_gazole(station):
     return None
 
 
-def generer_page_html(stations_data, chemin="public/index.html"):
-    os.makedirs(os.path.dirname(chemin), exist_ok=True)
-
+def generer_page_html(stations_data, chemin="index.html"):
     paris = datetime.now(ZoneInfo("Europe/Paris"))
     date_heure = paris.strftime("%d/%m/%Y a %Hh%M")
 
-    # Separe les stations dispo et indispo
     dispo = [s for s in stations_data if s["etat"] == "dispo"]
     temp = [s for s in stations_data if s["etat"] == "temp"]
     definitive = [s for s in stations_data if s["etat"] == "def"]
@@ -373,7 +365,6 @@ def main():
 
     print(f"{len(stations_total)} stations Total en Sarthe\n")
 
-    # Separation pour la page web
     dispo = [{"id": sid, **info} for sid, info in stations_total.items() if info["etat"] == "dispo"]
     temp = [{"id": sid, **info} for sid, info in stations_total.items() if info["etat"] == "temp"]
     definitive = [{"id": sid, **info} for sid, info in stations_total.items() if info["etat"] == "def"]
@@ -385,15 +376,13 @@ def main():
     creer_icones_png()
     creer_manifest()
 
-    # --- Detection des changements ---
-    retours = []  # stations qui ont retrouve du gazole
-    nouvelles_ruptures = []  # stations qui ont perdu le gazole
+    retours = []
+    nouvelles_ruptures = []
 
     for sid, info in stations_total.items():
         etat_avant = stocks_precedents.get(sid, {}).get("etat")
         etat_maintenant = info["etat"]
 
-        # Retour en stock (etait temp ou def, maintenant dispo)
         if etat_avant in ("temp", "def") and etat_maintenant == "dispo":
             retours.append({
                 "ville": info["ville"],
@@ -401,7 +390,6 @@ def main():
                 "cp": info["cp"],
             })
 
-        # Nouvelle rupture (etait dispo, maintenant temp ou def)
         if etat_avant == "dispo" and etat_maintenant in ("temp", "def"):
             nouvelles_ruptures.append({
                 "ville": info["ville"],
@@ -410,7 +398,6 @@ def main():
                 "type": etat_maintenant,
             })
 
-    # --- Envoi des notifications ---
     if retours:
         lignes = []
         for r in retours[:20]:
@@ -434,7 +421,6 @@ def main():
         print(f"\n{titre}\n{message}\n")
         envoyer_notification(titre, message)
 
-    # --- Recap quotidien ---
     derniere_date_recap = recap_dernier.get("date", "")
     if (paris.hour >= HEURE_RECAP and date_aujourdhui != derniere_date_recap):
         print(f"\n-> Envoi du recap quotidien (date : {date_aujourdhui})")
@@ -446,7 +432,6 @@ def main():
     if not retours and not nouvelles_ruptures:
         print("\nAucun changement detecte.")
 
-    # Sauvegarde de l'etat
     sauvegarder_json(FICHIER_STOCKS, stations_total)
     print(f"\nEtat sauvegarde : {len(stations_total)} stations")
 
