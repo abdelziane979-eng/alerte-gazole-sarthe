@@ -10,8 +10,8 @@
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72650002": {
     "ville": "Trangé",
@@ -38,22 +38,22 @@
     "ville": "Écommoy",
     "adresse": "LE SOLEIL",
     "cp": "72220",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72000021": {
     "ville": "Le Mans",
     "adresse": "ROUTE DE LAVAL",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72100012": {
     "ville": "Le Mans",
     "adresse": "146 AVENUE DU DR JEAN MAC",
     "cp": "72100",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72000010": {
     "ville": "Le Mans",
@@ -150,15 +150,15 @@
     "ville": "Le Mans",
     "adresse": "162, AVENUE BOLLEE",
     "cp": "72000",
-    "etat": null,
+    "etat": "temp",
     "prix": null
   },
   "72100014": {
     "ville": "Le Mans",
     "adresse": "110 -112 BLD DEMORIEUX",
     "cp": "72100",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72310002": {
     "ville": "Bessé-sur-Braye",
