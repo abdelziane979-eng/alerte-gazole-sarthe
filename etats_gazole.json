@@ -17,8 +17,8 @@
     "ville": "Trangé",
     "adresse": "RN 157 - LE RELAIS DE LA LANDE",
     "cp": "72650",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72440002": {
     "ville": "Bouloire",
@@ -31,8 +31,8 @@
     "ville": "Le Mans",
     "adresse": "RN 23 - AERODROME",
     "cp": "72100",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": null,
+    "prix": null
   },
   "72220002": {
     "ville": "Écommoy",
@@ -45,8 +45,8 @@
     "ville": "Le Mans",
     "adresse": "ROUTE DE LAVAL",
     "cp": "72000",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72100012": {
     "ville": "Le Mans",
@@ -66,8 +66,8 @@
     "ville": "Fresnay-sur-Sarthe",
     "adresse": "6 AVENUE DIVISION LECLERC",
     "cp": "72130",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72550002": {
     "ville": "Chaufour-Notre-Dame",
@@ -102,7 +102,7 @@
     "adresse": "CENTRE COMMERCIAL LE BELINOIS",
     "cp": "72220",
     "etat": "dispo",
-    "prix": 2.339
+    "prix": 2.329
   },
   "72120003": {
     "ville": "Saint-Calais",
@@ -157,15 +157,15 @@
     "ville": "Le Mans",
     "adresse": "110 -112 BLD DEMORIEUX",
     "cp": "72100",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72310002": {
     "ville": "Bessé-sur-Braye",
     "adresse": "47 rue du bal de braye",
     "cp": "72310",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72500005": {
     "ville": "Luceau",
