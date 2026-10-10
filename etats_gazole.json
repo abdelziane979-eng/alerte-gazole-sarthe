@@ -10,15 +10,15 @@
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72650002": {
     "ville": "Trangé",
     "adresse": "RN 157 - LE RELAIS DE LA LANDE",
     "cp": "72650",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72440002": {
     "ville": "Bouloire",
@@ -31,8 +31,8 @@
     "ville": "Le Mans",
     "adresse": "RN 23 - AERODROME",
     "cp": "72100",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": null,
+    "prix": null
   },
   "72220002": {
     "ville": "Écommoy",
@@ -52,7 +52,7 @@
     "ville": "Le Mans",
     "adresse": "146 AVENUE DU DR JEAN MAC",
     "cp": "72100",
-    "etat": "temp",
+    "etat": null,
     "prix": null
   },
   "72000010": {
@@ -150,15 +150,15 @@
     "ville": "Le Mans",
     "adresse": "162, AVENUE BOLLEE",
     "cp": "72000",
-    "etat": "temp",
+    "etat": null,
     "prix": null
   },
   "72100014": {
     "ville": "Le Mans",
     "adresse": "110 -112 BLD DEMORIEUX",
     "cp": "72100",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72310002": {
     "ville": "Bessé-sur-Braye",
