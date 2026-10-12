@@ -38,15 +38,15 @@
     "ville": "Écommoy",
     "adresse": "LE SOLEIL",
     "cp": "72220",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72000021": {
     "ville": "Le Mans",
     "adresse": "ROUTE DE LAVAL",
     "cp": "72000",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72100012": {
     "ville": "Le Mans",
@@ -102,7 +102,7 @@
     "adresse": "CENTRE COMMERCIAL LE BELINOIS",
     "cp": "72220",
     "etat": "dispo",
-    "prix": 2.329
+    "prix": 2.365
   },
   "72120003": {
     "ville": "Saint-Calais",
@@ -116,14 +116,14 @@
     "adresse": "2 Rue de Bonnétable",
     "cp": "72000",
     "etat": "dispo",
-    "prix": 2.409
+    "prix": 2.349
   },
   "72100004": {
     "ville": "Le Mans",
     "adresse": "AVENUE FELIX GENESLAY",
     "cp": "72100",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72350001": {
     "ville": "Brûlon",
