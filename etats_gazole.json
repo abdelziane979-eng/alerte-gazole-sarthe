@@ -24,8 +24,8 @@
     "ville": "Bouloire",
     "adresse": "1 Rue Nationale",
     "cp": "72440",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72100013": {
     "ville": "Le Mans",
@@ -45,15 +45,15 @@
     "ville": "Le Mans",
     "adresse": "ROUTE DE LAVAL",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72100012": {
     "ville": "Le Mans",
     "adresse": "146 AVENUE DU DR JEAN MAC",
     "cp": "72100",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72000010": {
     "ville": "Le Mans",
@@ -150,8 +150,8 @@
     "ville": "Le Mans",
     "adresse": "162, AVENUE BOLLEE",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72100014": {
     "ville": "Le Mans",
@@ -164,8 +164,8 @@
     "ville": "Bessé-sur-Braye",
     "adresse": "47 rue du bal de braye",
     "cp": "72310",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72500005": {
     "ville": "Luceau",
