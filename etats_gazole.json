@@ -108,8 +108,8 @@
     "ville": "Saint-Calais",
     "adresse": "7 Avenue Charles de Gaulle",
     "cp": "72120",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72000001": {
     "ville": "Le Mans",
