@@ -24,8 +24,8 @@
     "ville": "Bouloire",
     "adresse": "1 Rue Nationale",
     "cp": "72440",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72100013": {
     "ville": "Le Mans",
@@ -87,8 +87,8 @@
     "ville": "Champagné",
     "adresse": "RN 23 - LES FOSSES",
     "cp": "72470",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72170004": {
     "ville": "Maresché",
