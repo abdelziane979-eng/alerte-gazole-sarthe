@@ -52,14 +52,14 @@
     "ville": "Le Mans",
     "adresse": "146 AVENUE DU DR JEAN MAC",
     "cp": "72100",
-    "etat": "temp",
+    "etat": null,
     "prix": null
   },
   "72000010": {
     "ville": "Le Mans",
     "adresse": "44 Rue de Bonnétable",
     "cp": "72000",
-    "etat": null,
+    "etat": "temp",
     "prix": null
   },
   "72130006": {
@@ -87,7 +87,7 @@
     "ville": "Champagné",
     "adresse": "RN 23 - LES FOSSES",
     "cp": "72470",
-    "etat": null,
+    "etat": "temp",
     "prix": null
   },
   "72170004": {
@@ -164,8 +164,8 @@
     "ville": "Bessé-sur-Braye",
     "adresse": "47 rue du bal de braye",
     "cp": "72310",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72500005": {
     "ville": "Luceau",
