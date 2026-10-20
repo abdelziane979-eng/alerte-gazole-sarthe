@@ -17,8 +17,8 @@
     "ville": "Trangé",
     "adresse": "RN 157 - LE RELAIS DE LA LANDE",
     "cp": "72650",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72440002": {
     "ville": "Bouloire",
@@ -73,7 +73,7 @@
     "ville": "Chaufour-Notre-Dame",
     "adresse": "RELAIS DE LA COLOMBERIE LA GROIE RD357",
     "cp": "72550",
-    "etat": null,
+    "etat": "temp",
     "prix": null
   },
   "72190004": {
@@ -116,7 +116,7 @@
     "adresse": "2 Rue de Bonnétable",
     "cp": "72000",
     "etat": "dispo",
-    "prix": 2.359
+    "prix": 2.368
   },
   "72100004": {
     "ville": "Le Mans",
@@ -157,8 +157,8 @@
     "ville": "Le Mans",
     "adresse": "110 -112 BLD DEMORIEUX",
     "cp": "72100",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72310002": {
     "ville": "Bessé-sur-Braye",
