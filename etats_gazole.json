@@ -31,8 +31,8 @@
     "ville": "Le Mans",
     "adresse": "RN 23 - AERODROME",
     "cp": "72100",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72220002": {
     "ville": "Écommoy",
@@ -157,8 +157,8 @@
     "ville": "Le Mans",
     "adresse": "110 -112 BLD DEMORIEUX",
     "cp": "72100",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72310002": {
     "ville": "Bessé-sur-Braye",
