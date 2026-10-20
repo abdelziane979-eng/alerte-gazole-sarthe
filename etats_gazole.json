@@ -87,7 +87,7 @@
     "ville": "Champagné",
     "adresse": "RN 23 - LES FOSSES",
     "cp": "72470",
-    "etat": "temp",
+    "etat": null,
     "prix": null
   },
   "72170004": {
