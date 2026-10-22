@@ -31,8 +31,8 @@
     "ville": "Le Mans",
     "adresse": "RN 23 - AERODROME",
     "cp": "72100",
-    "etat": null,
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72220002": {
     "ville": "Écommoy",
