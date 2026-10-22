@@ -45,8 +45,8 @@
     "ville": "Le Mans",
     "adresse": "ROUTE DE LAVAL",
     "cp": "72000",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72100012": {
     "ville": "Le Mans",
@@ -66,8 +66,8 @@
     "ville": "Fresnay-sur-Sarthe",
     "adresse": "6 AVENUE DIVISION LECLERC",
     "cp": "72130",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72550002": {
     "ville": "Chaufour-Notre-Dame",
@@ -122,8 +122,8 @@
     "ville": "Le Mans",
     "adresse": "AVENUE FELIX GENESLAY",
     "cp": "72100",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72350001": {
     "ville": "Brûlon",
