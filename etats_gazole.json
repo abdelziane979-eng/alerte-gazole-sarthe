@@ -24,8 +24,8 @@
     "ville": "Bouloire",
     "adresse": "1 Rue Nationale",
     "cp": "72440",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72100013": {
     "ville": "Le Mans",
@@ -66,7 +66,7 @@
     "ville": "Fresnay-sur-Sarthe",
     "adresse": "6 AVENUE DIVISION LECLERC",
     "cp": "72130",
-    "etat": "temp",
+    "etat": null,
     "prix": null
   },
   "72550002": {
@@ -87,7 +87,7 @@
     "ville": "Champagné",
     "adresse": "RN 23 - LES FOSSES",
     "cp": "72470",
-    "etat": "temp",
+    "etat": null,
     "prix": null
   },
   "72170004": {
@@ -122,8 +122,8 @@
     "ville": "Le Mans",
     "adresse": "AVENUE FELIX GENESLAY",
     "cp": "72100",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72350001": {
     "ville": "Brûlon",
@@ -164,8 +164,8 @@
     "ville": "Bessé-sur-Braye",
     "adresse": "47 rue du bal de braye",
     "cp": "72310",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72500005": {
     "ville": "Luceau",
