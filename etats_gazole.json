@@ -52,8 +52,8 @@
     "ville": "Le Mans",
     "adresse": "146 AVENUE DU DR JEAN MAC",
     "cp": "72100",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72000010": {
     "ville": "Le Mans",
@@ -108,7 +108,7 @@
     "ville": "Saint-Calais",
     "adresse": "7 Avenue Charles de Gaulle",
     "cp": "72120",
-    "etat": "temp",
+    "etat": null,
     "prix": null
   },
   "72000001": {
@@ -157,7 +157,7 @@
     "ville": "Le Mans",
     "adresse": "110 -112 BLD DEMORIEUX",
     "cp": "72100",
-    "etat": "temp",
+    "etat": null,
     "prix": null
   },
   "72310002": {
