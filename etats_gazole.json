@@ -87,8 +87,8 @@
     "ville": "Champagné",
     "adresse": "RN 23 - LES FOSSES",
     "cp": "72470",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72170004": {
     "ville": "Maresché",
@@ -150,7 +150,7 @@
     "ville": "Le Mans",
     "adresse": "162, AVENUE BOLLEE",
     "cp": "72000",
-    "etat": "temp",
+    "etat": null,
     "prix": null
   },
   "72100014": {
