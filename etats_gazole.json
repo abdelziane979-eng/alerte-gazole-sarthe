@@ -150,7 +150,7 @@
     "ville": "Le Mans",
     "adresse": "162, AVENUE BOLLEE",
     "cp": "72000",
-    "etat": null,
+    "etat": "temp",
     "prix": null
   },
   "72100014": {
