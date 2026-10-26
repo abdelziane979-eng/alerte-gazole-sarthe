@@ -10,8 +10,8 @@
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72650002": {
     "ville": "Trangé",
@@ -24,8 +24,8 @@
     "ville": "Bouloire",
     "adresse": "1 Rue Nationale",
     "cp": "72440",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72100013": {
     "ville": "Le Mans",
@@ -66,8 +66,8 @@
     "ville": "Fresnay-sur-Sarthe",
     "adresse": "6 AVENUE DIVISION LECLERC",
     "cp": "72130",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72550002": {
     "ville": "Chaufour-Notre-Dame",
@@ -94,22 +94,22 @@
     "ville": "Maresché",
     "adresse": "GARE DE PEAGE MARESCHE A28",
     "cp": "72170",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72220001": {
     "ville": "Écommoy",
     "adresse": "CENTRE COMMERCIAL LE BELINOIS",
     "cp": "72220",
     "etat": "dispo",
-    "prix": 2.379
+    "prix": 2.395
   },
   "72120003": {
     "ville": "Saint-Calais",
     "adresse": "7 Avenue Charles de Gaulle",
     "cp": "72120",
-    "etat": null,
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72000001": {
     "ville": "Le Mans",
@@ -129,8 +129,8 @@
     "ville": "Brûlon",
     "adresse": "ROUTE DE SILLE",
     "cp": "72350",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72300009": {
     "ville": "Sablé-sur-Sarthe",
@@ -164,8 +164,8 @@
     "ville": "Bessé-sur-Braye",
     "adresse": "47 rue du bal de braye",
     "cp": "72310",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72500005": {
     "ville": "Luceau",
