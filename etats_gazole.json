@@ -143,8 +143,8 @@
     "ville": "Solesmes",
     "adresse": "Avenue Jean Monnet",
     "cp": "72300",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72000020": {
     "ville": "Le Mans",
