@@ -73,8 +73,8 @@
     "ville": "Chaufour-Notre-Dame",
     "adresse": "RELAIS DE LA COLOMBERIE LA GROIE RD357",
     "cp": "72550",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72190004": {
     "ville": "Sargé-lès-le-Mans",
@@ -87,7 +87,7 @@
     "ville": "Champagné",
     "adresse": "RN 23 - LES FOSSES",
     "cp": "72470",
-    "etat": "temp",
+    "etat": null,
     "prix": null
   },
   "72170004": {
@@ -157,8 +157,8 @@
     "ville": "Le Mans",
     "adresse": "110 -112 BLD DEMORIEUX",
     "cp": "72100",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72310002": {
     "ville": "Bessé-sur-Braye",
