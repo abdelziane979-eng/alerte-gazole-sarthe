@@ -45,8 +45,8 @@
     "ville": "Le Mans",
     "adresse": "ROUTE DE LAVAL",
     "cp": "72000",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72100012": {
     "ville": "Le Mans",
@@ -87,15 +87,15 @@
     "ville": "Champagné",
     "adresse": "RN 23 - LES FOSSES",
     "cp": "72470",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72170004": {
     "ville": "Maresché",
     "adresse": "GARE DE PEAGE MARESCHE A28",
     "cp": "72170",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72220001": {
     "ville": "Écommoy",
@@ -157,8 +157,8 @@
     "ville": "Le Mans",
     "adresse": "110 -112 BLD DEMORIEUX",
     "cp": "72100",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72310002": {
     "ville": "Bessé-sur-Braye",
