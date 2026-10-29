@@ -17,7 +17,7 @@
     "ville": "Trangé",
     "adresse": "RN 157 - LE RELAIS DE LA LANDE",
     "cp": "72650",
-    "etat": null,
+    "etat": "temp",
     "prix": null
   },
   "72440002": {
@@ -109,7 +109,7 @@
     "adresse": "7 Avenue Charles de Gaulle",
     "cp": "72120",
     "etat": "dispo",
-    "prix": 2.25
+    "prix": 2.225
   },
   "72000001": {
     "ville": "Le Mans",
@@ -164,8 +164,8 @@
     "ville": "Bessé-sur-Braye",
     "adresse": "47 rue du bal de braye",
     "cp": "72310",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72500005": {
     "ville": "Luceau",
