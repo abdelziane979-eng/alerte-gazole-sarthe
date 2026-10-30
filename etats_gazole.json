@@ -17,8 +17,8 @@
     "ville": "Trangé",
     "adresse": "RN 157 - LE RELAIS DE LA LANDE",
     "cp": "72650",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72440002": {
     "ville": "Bouloire",
