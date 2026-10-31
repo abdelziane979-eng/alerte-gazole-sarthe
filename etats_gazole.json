@@ -38,8 +38,8 @@
     "ville": "Écommoy",
     "adresse": "LE SOLEIL",
     "cp": "72220",
-    "etat": "dispo",
-    "prix": 2.15
+    "etat": "temp",
+    "prix": null
   },
   "72000021": {
     "ville": "Le Mans",
