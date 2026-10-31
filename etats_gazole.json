@@ -10,8 +10,8 @@
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.15
   },
   "72650002": {
     "ville": "Trangé",
@@ -31,7 +31,7 @@
     "ville": "Le Mans",
     "adresse": "RN 23 - AERODROME",
     "cp": "72100",
-    "etat": "temp",
+    "etat": null,
     "prix": null
   },
   "72220002": {
@@ -39,7 +39,7 @@
     "adresse": "LE SOLEIL",
     "cp": "72220",
     "etat": "dispo",
-    "prix": 2.25
+    "prix": 2.15
   },
   "72000021": {
     "ville": "Le Mans",
@@ -87,8 +87,8 @@
     "ville": "Champagné",
     "adresse": "RN 23 - LES FOSSES",
     "cp": "72470",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.15
   },
   "72170004": {
     "ville": "Maresché",
