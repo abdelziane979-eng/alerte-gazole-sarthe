@@ -10,8 +10,8 @@
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "dispo",
-    "prix": 2.15
+    "etat": "temp",
+    "prix": null
   },
   "72650002": {
     "ville": "Trangé",
@@ -52,8 +52,8 @@
     "ville": "Le Mans",
     "adresse": "146 AVENUE DU DR JEAN MAC",
     "cp": "72100",
-    "etat": "dispo",
-    "prix": 2.15
+    "etat": "temp",
+    "prix": null
   },
   "72000010": {
     "ville": "Le Mans",
