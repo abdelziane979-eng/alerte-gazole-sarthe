@@ -10,8 +10,8 @@
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "dispo",
-    "prix": 2.137
+    "etat": "temp",
+    "prix": null
   },
   "72650002": {
     "ville": "Trangé",
@@ -66,8 +66,8 @@
     "ville": "Fresnay-sur-Sarthe",
     "adresse": "6 AVENUE DIVISION LECLERC",
     "cp": "72130",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72550002": {
     "ville": "Chaufour-Notre-Dame",
@@ -87,8 +87,8 @@
     "ville": "Champagné",
     "adresse": "RN 23 - LES FOSSES",
     "cp": "72470",
-    "etat": "dispo",
-    "prix": 2.137
+    "etat": "temp",
+    "prix": null
   },
   "72170004": {
     "ville": "Maresché",
