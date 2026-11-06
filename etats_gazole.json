@@ -32,7 +32,7 @@
     "adresse": "RN 23 - AERODROME",
     "cp": "72100",
     "etat": "dispo",
-    "prix": 2.159
+    "prix": 2.169
   },
   "72220002": {
     "ville": "Écommoy",
@@ -46,7 +46,7 @@
     "adresse": "ROUTE DE LAVAL",
     "cp": "72000",
     "etat": "dispo",
-    "prix": 2.137
+    "prix": 2.131
   },
   "72100012": {
     "ville": "Le Mans",
@@ -151,7 +151,7 @@
     "adresse": "162, AVENUE BOLLEE",
     "cp": "72000",
     "etat": "dispo",
-    "prix": 2.137
+    "prix": 2.147
   },
   "72100014": {
     "ville": "Le Mans",
