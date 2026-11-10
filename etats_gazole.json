@@ -24,8 +24,8 @@
     "ville": "Bouloire",
     "adresse": "1 Rue Nationale",
     "cp": "72440",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.25
   },
   "72100013": {
     "ville": "Le Mans",
@@ -52,8 +52,8 @@
     "ville": "Le Mans",
     "adresse": "146 AVENUE DU DR JEAN MAC",
     "cp": "72100",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.089
   },
   "72000010": {
     "ville": "Le Mans",
@@ -87,8 +87,8 @@
     "ville": "Champagné",
     "adresse": "RN 23 - LES FOSSES",
     "cp": "72470",
-    "etat": "dispo",
-    "prix": 2.089
+    "etat": "temp",
+    "prix": null
   },
   "72170004": {
     "ville": "Maresché",
@@ -111,19 +111,12 @@
     "etat": "dispo",
     "prix": 2.25
   },
-  "72000001": {
-    "ville": "Le Mans",
-    "adresse": "2 Rue de Bonnétable",
-    "cp": "72000",
-    "etat": "dispo",
-    "prix": 2.188
-  },
   "72100004": {
     "ville": "Le Mans",
     "adresse": "AVENUE FELIX GENESLAY",
     "cp": "72100",
-    "etat": "dispo",
-    "prix": 2.25
+    "etat": "temp",
+    "prix": null
   },
   "72350001": {
     "ville": "Brûlon",
