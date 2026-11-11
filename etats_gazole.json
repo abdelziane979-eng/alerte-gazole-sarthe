@@ -10,8 +10,8 @@
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.08
   },
   "72650002": {
     "ville": "Trangé",
@@ -25,7 +25,7 @@
     "adresse": "1 Rue Nationale",
     "cp": "72440",
     "etat": "dispo",
-    "prix": 2.25
+    "prix": 2.21
   },
   "72100013": {
     "ville": "Le Mans",
