@@ -6,13 +6,6 @@
     "etat": "dispo",
     "prix": 2.25
   },
-  "72000019": {
-    "ville": "Le Mans",
-    "adresse": "314 AV RHIN ET DANUBE",
-    "cp": "72000",
-    "etat": "dispo",
-    "prix": 2.08
-  },
   "72650002": {
     "ville": "Trangé",
     "adresse": "RN 157 - LE RELAIS DE LA LANDE",
@@ -34,6 +27,13 @@
     "etat": "temp",
     "prix": null
   },
+  "72000019": {
+    "ville": "Le Mans",
+    "adresse": "314 AV RHIN ET DANUBE",
+    "cp": "72000",
+    "etat": "temp",
+    "prix": null
+  },
   "72220002": {
     "ville": "Écommoy",
     "adresse": "LE SOLEIL",
@@ -52,8 +52,8 @@
     "ville": "Le Mans",
     "adresse": "146 AVENUE DU DR JEAN MAC",
     "cp": "72100",
-    "etat": "dispo",
-    "prix": 2.08
+    "etat": "temp",
+    "prix": null
   },
   "72000010": {
     "ville": "Le Mans",
