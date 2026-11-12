@@ -24,43 +24,43 @@
     "ville": "Le Mans",
     "adresse": "RN 23 - AERODROME",
     "cp": "72100",
-    "etat": "temp",
+    "etat": null,
     "prix": null
   },
   "72000019": {
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.08
   },
   "72220002": {
     "ville": "Écommoy",
     "adresse": "LE SOLEIL",
     "cp": "72220",
-    "etat": "dispo",
-    "prix": 2.071
+    "etat": "temp",
+    "prix": null
   },
   "72000021": {
     "ville": "Le Mans",
     "adresse": "ROUTE DE LAVAL",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.086
   },
   "72100012": {
     "ville": "Le Mans",
     "adresse": "146 AVENUE DU DR JEAN MAC",
     "cp": "72100",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.08
   },
   "72000010": {
     "ville": "Le Mans",
     "adresse": "44 Rue de Bonnétable",
     "cp": "72000",
-    "etat": null,
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.21
   },
   "72130006": {
     "ville": "Fresnay-sur-Sarthe",
@@ -87,8 +87,8 @@
     "ville": "Champagné",
     "adresse": "RN 23 - LES FOSSES",
     "cp": "72470",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.08
   },
   "72170004": {
     "ville": "Maresché",
@@ -109,28 +109,28 @@
     "adresse": "7 Avenue Charles de Gaulle",
     "cp": "72120",
     "etat": "dispo",
-    "prix": 2.25
+    "prix": 2.21
   },
   "72100004": {
     "ville": "Le Mans",
     "adresse": "AVENUE FELIX GENESLAY",
     "cp": "72100",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.21
   },
   "72350001": {
     "ville": "Brûlon",
     "adresse": "ROUTE DE SILLE",
     "cp": "72350",
     "etat": "dispo",
-    "prix": 2.25
+    "prix": 2.21
   },
   "72300009": {
     "ville": "Sablé-sur-Sarthe",
     "adresse": "LE PETIT ERABLE, ROUTE DE LAVAL",
     "cp": "72300",
     "etat": "dispo",
-    "prix": 2.25
+    "prix": 2.21
   },
   "72301001": {
     "ville": "Solesmes",
