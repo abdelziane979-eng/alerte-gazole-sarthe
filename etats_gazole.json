@@ -31,15 +31,15 @@
     "ville": "Écommoy",
     "adresse": "LE SOLEIL",
     "cp": "72220",
-    "etat": "dispo",
-    "prix": 2.124
+    "etat": null,
+    "prix": null
   },
   "72000021": {
     "ville": "Le Mans",
     "adresse": "ROUTE DE LAVAL",
     "cp": "72000",
-    "etat": "dispo",
-    "prix": 2.059
+    "etat": "temp",
+    "prix": null
   },
   "72100012": {
     "ville": "Le Mans",
@@ -102,7 +102,7 @@
     "adresse": "CENTRE COMMERCIAL LE BELINOIS",
     "cp": "72220",
     "etat": "dispo",
-    "prix": 2.134
+    "prix": 2.119
   },
   "72120003": {
     "ville": "Saint-Calais",
