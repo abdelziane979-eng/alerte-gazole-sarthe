@@ -24,15 +24,15 @@
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.059
   },
   "72220002": {
     "ville": "Écommoy",
     "adresse": "LE SOLEIL",
     "cp": "72220",
     "etat": "dispo",
-    "prix": 2.087
+    "prix": 2.124
   },
   "72000021": {
     "ville": "Le Mans",
