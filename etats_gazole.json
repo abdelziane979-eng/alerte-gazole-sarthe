@@ -17,15 +17,15 @@
     "ville": "Le Mans",
     "adresse": "RN 23 - AERODROME",
     "cp": "72100",
-    "etat": "dispo",
-    "prix": 2.091
+    "etat": null,
+    "prix": null
   },
   "72000019": {
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "dispo",
-    "prix": 2.052
+    "etat": "temp",
+    "prix": null
   },
   "72220002": {
     "ville": "Écommoy",
@@ -116,7 +116,7 @@
     "adresse": "AVENUE FELIX GENESLAY",
     "cp": "72100",
     "etat": "dispo",
-    "prix": 2.21
+    "prix": 2.19
   },
   "72350001": {
     "ville": "Brûlon",
