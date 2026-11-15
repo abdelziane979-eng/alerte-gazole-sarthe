@@ -45,8 +45,8 @@
     "ville": "Le Mans",
     "adresse": "146 AVENUE DU DR JEAN MAC",
     "cp": "72100",
-    "etat": "dispo",
-    "prix": 2.052
+    "etat": "temp",
+    "prix": null
   },
   "72440002": {
     "ville": "Bouloire",
