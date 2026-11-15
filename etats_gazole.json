@@ -27,19 +27,19 @@
     "etat": "temp",
     "prix": null
   },
-  "72220002": {
-    "ville": "Écommoy",
-    "adresse": "LE SOLEIL",
-    "cp": "72220",
-    "etat": "dispo",
-    "prix": 2.102
-  },
   "72000021": {
     "ville": "Le Mans",
     "adresse": "ROUTE DE LAVAL",
     "cp": "72000",
     "etat": "temp",
     "prix": null
+  },
+  "72220002": {
+    "ville": "Écommoy",
+    "adresse": "LE SOLEIL",
+    "cp": "72220",
+    "etat": "dispo",
+    "prix": 2.102
   },
   "72100012": {
     "ville": "Le Mans",
