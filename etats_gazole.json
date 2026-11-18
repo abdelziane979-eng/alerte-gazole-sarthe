@@ -24,8 +24,8 @@
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.071
   },
   "72000021": {
     "ville": "Le Mans",
@@ -39,7 +39,7 @@
     "adresse": "LE SOLEIL",
     "cp": "72220",
     "etat": "dispo",
-    "prix": 2.085
+    "prix": 2.071
   },
   "72100012": {
     "ville": "Le Mans",
