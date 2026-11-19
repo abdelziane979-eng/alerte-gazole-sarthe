@@ -18,14 +18,14 @@
     "adresse": "RN 23 - AERODROME",
     "cp": "72100",
     "etat": "dispo",
-    "prix": 2.071
+    "prix": 2.069
   },
   "72000019": {
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.069
   },
   "72000021": {
     "ville": "Le Mans",
@@ -39,7 +39,7 @@
     "adresse": "LE SOLEIL",
     "cp": "72220",
     "etat": "dispo",
-    "prix": 2.071
+    "prix": 2.069
   },
   "72100012": {
     "ville": "Le Mans",
@@ -53,14 +53,14 @@
     "adresse": "1 Rue Nationale",
     "cp": "72440",
     "etat": "dispo",
-    "prix": 2.23
+    "prix": 2.223
   },
   "72000010": {
     "ville": "Le Mans",
     "adresse": "44 Rue de Bonnétable",
     "cp": "72000",
     "etat": "dispo",
-    "prix": 2.23
+    "prix": 2.21
   },
   "72130006": {
     "ville": "Fresnay-sur-Sarthe",
@@ -123,14 +123,14 @@
     "adresse": "ROUTE DE SILLE",
     "cp": "72350",
     "etat": "dispo",
-    "prix": 2.23
+    "prix": 2.21
   },
   "72300009": {
     "ville": "Sablé-sur-Sarthe",
     "adresse": "LE PETIT ERABLE, ROUTE DE LAVAL",
     "cp": "72300",
     "etat": "dispo",
-    "prix": 2.23
+    "prix": 2.21
   },
   "72301001": {
     "ville": "Solesmes",
