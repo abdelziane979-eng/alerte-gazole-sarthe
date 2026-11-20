@@ -24,8 +24,8 @@
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.043
   },
   "72000021": {
     "ville": "Le Mans",
@@ -39,7 +39,7 @@
     "adresse": "LE SOLEIL",
     "cp": "72220",
     "etat": "dispo",
-    "prix": 2.069
+    "prix": 2.064
   },
   "72100012": {
     "ville": "Le Mans",
@@ -60,7 +60,7 @@
     "adresse": "44 Rue de Bonnétable",
     "cp": "72000",
     "etat": "dispo",
-    "prix": 2.21
+    "prix": 2.23
   },
   "72130006": {
     "ville": "Fresnay-sur-Sarthe",
@@ -123,14 +123,14 @@
     "adresse": "ROUTE DE SILLE",
     "cp": "72350",
     "etat": "dispo",
-    "prix": 2.21
+    "prix": 2.23
   },
   "72300009": {
     "ville": "Sablé-sur-Sarthe",
     "adresse": "LE PETIT ERABLE, ROUTE DE LAVAL",
     "cp": "72300",
     "etat": "dispo",
-    "prix": 2.21
+    "prix": 2.23
   },
   "72301001": {
     "ville": "Solesmes",
@@ -143,7 +143,7 @@
     "ville": "Le Mans",
     "adresse": "162, AVENUE BOLLEE",
     "cp": "72000",
-    "etat": "temp",
+    "etat": null,
     "prix": null
   },
   "72100014": {
