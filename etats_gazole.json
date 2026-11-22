@@ -24,8 +24,8 @@
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "dispo",
-    "prix": 2.026
+    "etat": "temp",
+    "prix": null
   },
   "72000021": {
     "ville": "Le Mans",
