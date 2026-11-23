@@ -157,8 +157,8 @@
     "ville": "Bessé-sur-Braye",
     "adresse": "47 rue du bal de braye",
     "cp": "72310",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.2
   },
   "72500005": {
     "ville": "Luceau",
