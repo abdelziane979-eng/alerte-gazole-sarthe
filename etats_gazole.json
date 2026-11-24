@@ -18,7 +18,7 @@
     "adresse": "RN 23 - AERODROME",
     "cp": "72100",
     "etat": "dispo",
-    "prix": 2.059
+    "prix": 2.037
   },
   "72000019": {
     "ville": "Le Mans",
@@ -32,7 +32,7 @@
     "adresse": "ROUTE DE LAVAL",
     "cp": "72000",
     "etat": "dispo",
-    "prix": 2.026
+    "prix": 2.024
   },
   "72220002": {
     "ville": "Écommoy",
@@ -46,7 +46,7 @@
     "adresse": "146 AVENUE DU DR JEAN MAC",
     "cp": "72100",
     "etat": "dispo",
-    "prix": 2.036
+    "prix": 2.033
   },
   "72440002": {
     "ville": "Bouloire",
@@ -88,7 +88,7 @@
     "adresse": "RN 23 - LES FOSSES",
     "cp": "72470",
     "etat": "dispo",
-    "prix": 2.036
+    "prix": 2.033
   },
   "72170004": {
     "ville": "Maresché",
@@ -144,14 +144,14 @@
     "adresse": "162, AVENUE BOLLEE",
     "cp": "72000",
     "etat": "dispo",
-    "prix": 2.036
+    "prix": 2.033
   },
   "72100014": {
     "ville": "Le Mans",
     "adresse": "110 -112 BLD DEMORIEUX",
     "cp": "72100",
     "etat": "dispo",
-    "prix": 2.036
+    "prix": 2.033
   },
   "72310002": {
     "ville": "Bessé-sur-Braye",
