@@ -24,22 +24,22 @@
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 2.024
   },
   "72000021": {
     "ville": "Le Mans",
     "adresse": "ROUTE DE LAVAL",
     "cp": "72000",
-    "etat": "dispo",
-    "prix": 2.024
+    "etat": "temp",
+    "prix": null
   },
   "72220002": {
     "ville": "Écommoy",
     "adresse": "LE SOLEIL",
     "cp": "72220",
     "etat": "dispo",
-    "prix": 2.069
+    "prix": 2.047
   },
   "72100012": {
     "ville": "Le Mans",
@@ -102,7 +102,7 @@
     "adresse": "CENTRE COMMERCIAL LE BELINOIS",
     "cp": "72220",
     "etat": "dispo",
-    "prix": 2.059
+    "prix": 2.045
   },
   "72120003": {
     "ville": "Saint-Calais",
@@ -116,7 +116,7 @@
     "adresse": "AVENUE FELIX GENESLAY",
     "cp": "72100",
     "etat": "dispo",
-    "prix": 2.21
+    "prix": 2.19
   },
   "72350001": {
     "ville": "Brûlon",
