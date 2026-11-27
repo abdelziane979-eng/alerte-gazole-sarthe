@@ -31,8 +31,8 @@
     "ville": "Le Mans",
     "adresse": "ROUTE DE LAVAL",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 1.941
   },
   "72220002": {
     "ville": "Écommoy",
