@@ -11,7 +11,7 @@
     "adresse": "RN 157 - LE RELAIS DE LA LANDE",
     "cp": "72650",
     "etat": "dispo",
-    "prix": 2.138
+    "prix": 2.13
   },
   "72100013": {
     "ville": "Le Mans",
@@ -24,22 +24,22 @@
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 1.941
   },
   "72000021": {
     "ville": "Le Mans",
     "adresse": "ROUTE DE LAVAL",
     "cp": "72000",
-    "etat": "dispo",
-    "prix": 1.941
+    "etat": "temp",
+    "prix": null
   },
   "72220002": {
     "ville": "Écommoy",
     "adresse": "LE SOLEIL",
     "cp": "72220",
     "etat": "dispo",
-    "prix": 2.011
+    "prix": 2.002
   },
   "72100012": {
     "ville": "Le Mans",
@@ -53,21 +53,21 @@
     "adresse": "1 Rue Nationale",
     "cp": "72440",
     "etat": "dispo",
-    "prix": 2.012
+    "prix": 2.011
   },
   "72000010": {
     "ville": "Le Mans",
     "adresse": "44 Rue de Bonnétable",
     "cp": "72000",
     "etat": "dispo",
-    "prix": 2.164
+    "prix": 2.162
   },
   "72130006": {
     "ville": "Fresnay-sur-Sarthe",
     "adresse": "6 AVENUE DIVISION LECLERC",
     "cp": "72130",
     "etat": "dispo",
-    "prix": 1.982
+    "prix": 1.981
   },
   "72190004": {
     "ville": "Sargé-lès-le-Mans",
@@ -88,7 +88,7 @@
     "adresse": "RELAIS DE LA COLOMBERIE LA GROIE RD357",
     "cp": "72550",
     "etat": "dispo",
-    "prix": 2.23
+    "prix": 2.199
   },
   "72170004": {
     "ville": "Maresché",
@@ -102,7 +102,7 @@
     "adresse": "CENTRE COMMERCIAL LE BELINOIS",
     "cp": "72220",
     "etat": "dispo",
-    "prix": 2.019
+    "prix": 1.995
   },
   "72120003": {
     "ville": "Saint-Calais",
@@ -116,21 +116,21 @@
     "adresse": "AVENUE FELIX GENESLAY",
     "cp": "72100",
     "etat": "dispo",
-    "prix": 2.133
+    "prix": 2.125
   },
   "72350001": {
     "ville": "Brûlon",
     "adresse": "ROUTE DE SILLE",
     "cp": "72350",
     "etat": "dispo",
-    "prix": 2.027
+    "prix": 2.026
   },
   "72300009": {
     "ville": "Sablé-sur-Sarthe",
     "adresse": "LE PETIT ERABLE, ROUTE DE LAVAL",
     "cp": "72300",
     "etat": "dispo",
-    "prix": 1.952
+    "prix": 1.938
   },
   "72301001": {
     "ville": "Solesmes",
@@ -150,8 +150,8 @@
     "ville": "Le Mans",
     "adresse": "110 -112 BLD DEMORIEUX",
     "cp": "72100",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 1.969
   },
   "72310002": {
     "ville": "Bessé-sur-Braye",
