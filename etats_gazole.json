@@ -11,7 +11,7 @@
     "adresse": "RN 157 - LE RELAIS DE LA LANDE",
     "cp": "72650",
     "etat": "dispo",
-    "prix": 2.13
+    "prix": 2.109
   },
   "72100013": {
     "ville": "Le Mans",
@@ -24,8 +24,8 @@
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "temp",
-    "prix": null
+    "etat": "dispo",
+    "prix": 1.94
   },
   "72000021": {
     "ville": "Le Mans",
@@ -39,7 +39,7 @@
     "adresse": "LE SOLEIL",
     "cp": "72220",
     "etat": "dispo",
-    "prix": 2.002
+    "prix": 1.976
   },
   "72100012": {
     "ville": "Le Mans",
@@ -53,7 +53,7 @@
     "adresse": "1 Rue Nationale",
     "cp": "72440",
     "etat": "dispo",
-    "prix": 2.011
+    "prix": 1.98
   },
   "72000010": {
     "ville": "Le Mans",
@@ -67,7 +67,7 @@
     "adresse": "6 AVENUE DIVISION LECLERC",
     "cp": "72130",
     "etat": "dispo",
-    "prix": 1.981
+    "prix": 1.98
   },
   "72190004": {
     "ville": "Sargé-lès-le-Mans",
@@ -116,7 +116,7 @@
     "adresse": "AVENUE FELIX GENESLAY",
     "cp": "72100",
     "etat": "dispo",
-    "prix": 2.125
+    "prix": 2.103
   },
   "72350001": {
     "ville": "Brûlon",
