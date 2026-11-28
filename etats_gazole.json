@@ -18,21 +18,21 @@
     "adresse": "RN 23 - AERODROME",
     "cp": "72100",
     "etat": "dispo",
-    "prix": 1.981
+    "prix": 1.96
   },
   "72000019": {
     "ville": "Le Mans",
     "adresse": "314 AV RHIN ET DANUBE",
     "cp": "72000",
-    "etat": "dispo",
-    "prix": 1.941
+    "etat": "temp",
+    "prix": null
   },
   "72000021": {
     "ville": "Le Mans",
     "adresse": "ROUTE DE LAVAL",
     "cp": "72000",
     "etat": "dispo",
-    "prix": 1.941
+    "prix": 1.94
   },
   "72220002": {
     "ville": "Écommoy",
@@ -46,7 +46,7 @@
     "adresse": "146 AVENUE DU DR JEAN MAC",
     "cp": "72100",
     "etat": "dispo",
-    "prix": 1.969
+    "prix": 1.94
   },
   "72440002": {
     "ville": "Bouloire",
@@ -81,7 +81,7 @@
     "adresse": "RN 23 - LES FOSSES",
     "cp": "72470",
     "etat": "dispo",
-    "prix": 1.969
+    "prix": 1.94
   },
   "72550002": {
     "ville": "Chaufour-Notre-Dame",
@@ -95,7 +95,7 @@
     "adresse": "GARE DE PEAGE MARESCHE A28",
     "cp": "72170",
     "etat": "dispo",
-    "prix": 1.981
+    "prix": 1.98
   },
   "72220001": {
     "ville": "Écommoy",
@@ -144,14 +144,14 @@
     "adresse": "162, AVENUE BOLLEE",
     "cp": "72000",
     "etat": "dispo",
-    "prix": 1.969
+    "prix": 1.94
   },
   "72100014": {
     "ville": "Le Mans",
     "adresse": "110 -112 BLD DEMORIEUX",
     "cp": "72100",
     "etat": "dispo",
-    "prix": 1.969
+    "prix": 1.94
   },
   "72310002": {
     "ville": "Bessé-sur-Braye",
